@@ -1,0 +1,34 @@
+![cabecera](https://www.bbva.es/content/dam/public-web/bbvaes/images/finanzas-vistazo/ef/banca-digital/3200x912/3200x912-fintech.jpg.img.1600.1586776921894.jpg)
+
+# Tipos de malware y cómo puedes eliminarlos
+Descubre qué tipos de software malicioso pueden atacar tu dispositivo y cómo protegerlo de ellos.
+
+[Ciberseguridad](https://www.bbva.es/finanzas-vistazo/ciberseguridad.html) \>  [Ataques informáticos](https://www.bbva.es/finanzas-vistazo/ciberseguridad/ataques-informaticos.html) \>  [Tipos de malware y cómo puedes eliminarlos](#)
+
+**Indice**
+
+> - [¿Cuales son los principales objetivos que persiguen estos programas informaticos?](#)
+> - [¿Como proteger tu dispositivo de malware?](#)
+
+_02/11/2021_
+
+Un malware es todo **programa o código malicioso que ataca un dispositivo electrónico**, desde ordenadores a móviles o tabletas, con el objetivo de **dañar su sistema**, provocar un **mal funcionamiento** del mismo o **robar la información** alojada en él. Puede venir oculto en:
+
+1. **Archivos adjuntos** en correos electrónicos fraudulentos.
+1. **Enlaces en SMS** que solicitan descargar aplicaciones o archivos.
+1. **Aplicaciones no oficiales** que han sido infectadas con este software.
+1. **Publicidad maliciosa** enmascarada en páginas web ilegítimas.
+1. **Actualizaciones de software solicitadas** para ver ciertos contenidos en páginas web.
+
+En caso de que el dispositivo electrónico se vea infectado con un malware, pueden detectarse ciertas **anomalías**, tales como:
+
+- El dispositivo **no funciona con la fluidez** habitual.
+- El sistema __se bloquea__ con frecuencia. 
+- Se __reduce el espacio disponible en el disco duro__.
+- Se __instalan programas desconocidos__ para el usuario.
+- Aparecen __extensiones y herramientas__ en el navegador __que no se han descargado previamente__.
+- __Cambia la página de inicio__ del mismo.
+- Se reciben __mensajes de error__ desconocidos con asiduidad. 
+- __Deja de funcionar correctamente__ el antivirus.
+
+![ciberseguridad](https://www.bbva.es/content/dam/public-web/bbvaes/images/finanzas-vistazo/ef/ciberseguridad/2400x1600_Ultima-Hora-13.jpg.img.768.1635933878392.jpg)
